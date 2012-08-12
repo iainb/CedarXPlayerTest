@@ -17,4 +17,4 @@ Usage
 -----
 In testing (On a Debian system) only the CedarXPlayerTest-1.4.1 file plays back media. The CedarXPlayerTest script calls this player, the known arguments are as follows:
 
-CedarXPlayerTest <Media File>
+CedarXPlayerTest \<Media File\>
